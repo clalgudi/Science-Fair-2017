@@ -1,7 +1,6 @@
 # Science-Fair-2017
 ## Title: Investigating methylation to explain gene expression patterns between Glioblastoma and Alzheimer's Disease 
-## Chinmay Lalgudi
-## Lynbrook High School
+## Chinmay Lalgudi, Lynbrook High School
 ### Purpose: 
 Studies show inverse correlation between Alzheimer’s Disease(AD) and Glioblastoma(GBM), both diseases of the brain. AD and GBM are both associated with epigenetic factors. Can epigenetics explain this correlation? Can cancer or AD drugs, that treat via methylation or related signaling pathways, cause higher risk of other disease
 ### Background: 
